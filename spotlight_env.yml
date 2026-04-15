@@ -1,4 +1,4 @@
-name: behaviour
+name: spotlight_env
 channels:
   - conda-forge
 dependencies:
